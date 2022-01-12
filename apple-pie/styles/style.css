@@ -1,0 +1,77 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: normal;
+  align-items: center;
+  max-width: 960px;
+  margin: auto;
+}
+
+.main-title {
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  color: white;
+  width: 800px;
+  height: 500px;
+  margin: auto;
+}
+
+.background-info {
+  width: 70%;
+  margin: auto;
+  padding: 40px 50px;
+}
+
+.recipe-info {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+hr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 71%;
+}
+
+.ingredients {
+  width: 650px;
+  margin: auto;
+  text-indent: -15px;
+  padding-bottom: 25px;
+  font-weight: lighter;
+}
+.ingredients-list {
+  margin: auto;
+  width: 650px;
+  font-weight: lighter;
+  padding: 0px 40px 40px 40px;
+  list-style-type: none;
+}
+
+.cooking-info {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.directions {
+  width: 650px;
+  margin: auto;
+  text-indent: -15px;
+  padding-bottom: 25px;
+  font-weight: lighter;
+}
+
+.directions-list {
+  margin: auto;
+  width: 650px;
+  font-weight: lighter;
+  padding: 0px 40px 40px 40px;
+  list-style-type: none;
+}
